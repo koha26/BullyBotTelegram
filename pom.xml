@@ -19,6 +19,7 @@
 
     <modules>
         <module>build-tools</module>
+        <module>services</module>
     </modules>
 
     <properties>
